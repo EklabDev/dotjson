@@ -1,6 +1,6 @@
 {
     "name": "@eklabdev/dotjson",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "TypeScript library for JSON to dot notation conversion and comparison",
     "main": "dist/index.js",
     "module": "dist/index.esm.js",
